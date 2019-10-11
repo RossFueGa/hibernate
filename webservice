@@ -1,0 +1,5 @@
+﻿create table persona (
+clave character varying,
+nombre character varying,
+direccion character varying
+);
